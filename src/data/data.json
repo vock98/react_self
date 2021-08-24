@@ -1,0 +1,178 @@
+{
+  "Navigation": {
+    "title": "個人簡單介紹",
+    "features": "擅長項目",
+    "about": "關於vock",
+    "services": "專案經驗",
+    "services_detail": "vock以往製作過的專案，涵蓋了以下項目類別。",
+    "gallery": "以往作品",
+    "gallery_detail": "vock以往製作過的作品，透過截圖方式簡單呈現效果",
+    "testimonials": "同事評價",
+    "team": "工作經驗",
+    "contact": "聯絡VOCK"
+  },
+  "Header": {
+    "title": "快速認識VOCK",
+    "paragraph": "這是個自我介紹的頁面，透過網頁呈現，讓你簡單認識VOCK。",
+    "paragraph2": "(此頁面以React製作)",
+    "button": "開始了解VOCK"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "邏輯溝通",
+      "text": "擅長透過溝通建置SPEC，讓開發順利進行"
+    },
+    {
+      "icon": "fa fa-clock-o",
+      "title": "人力時程安排",
+      "text": "有效控管時程，讓專案準時完成"
+    },
+    {
+      "icon": "fa fa-cloud",
+      "title": "雲端建置",
+      "text": "透過Aws，Azure，GCP等值得信賴的雲端平台，讓專案穩定發布至全世界"
+    },
+    {
+      "icon": "fa fa-wrench",
+      "title": "品質把關",
+      "text": "透過測試文件及單元測試開發，讓開發內容與實際規格相符"
+    }
+  ],
+  "About": {
+    "paragraph": "Vock是一個有12年以上的軟體開發經驗，6年以上管理經驗，曾任 PM、SA、RD，且有整體專案從無到有的建置經驗，擅長 人臉/指紋辨識系統、 IOT 控制、APP開發、ERP系統、公司形象網站、跨國平台服務。",
+    "skill": "專長",
+    "Why": [
+      "Node.js、PHP、Golang、Python",
+      "Html、Css、React、Jquery",      
+      "Git、Jenkins、Docker",
+      "Aws、Azure、GCP"
+    ],
+    "Why2": [
+      "Notion、Trello、Jira、Redmine",
+      "PostMan、cucumber、Mocha",
+      "MYSQL、Oracle、sqlite",
+      "MongoDB、Elasticsearch、redis"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "政府相關部門合作串接",
+      "text": "與 交通部合作專案 & 各式交通相關演算法製作"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "電子商城及ERP系統",
+      "text": "曾製作兄弟象官方網站及Syntigris ERP系統"
+    },
+    {
+      "icon": "fa fa-wifi",
+      "name": "IOT軟硬體整合",
+      "text": "製作過人臉/指紋辨識、寵物居家各種互動機器"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "老人長照、教育平台",
+      "text": "建置遠端老人照護及派遣看護歷程平台，學校遠距教學APP"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "跨國專案",
+      "text": "製作過中國、歐洲、美國各地專案，各種時區及相關對應演算"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "統計及操作後台開發",
+      "text": "消費者以及客戶甚至公司內部所需的統計報表建置"
+    }
+  ],
+  "Gallery": [
+    {
+      "real_url": "https://www.metropia.com/umaji",
+      "image": "img/vock_project/UMAJI+.webp",
+      "project_type": "政府案",
+      "name": "政府相關部門合作串接"
+    },
+    {
+      "real_url": "http://tw.shuttle.com/products/productsDetail?productId=2240",
+      "image": "img/vock_project/BR06",
+      "project_type": "跨國IOT",
+      "name": "BR06人臉辨識解決方案"
+    },
+    {
+      "real_url": "https://www.pawbopet.com/tw/",
+      "image": "img/vock_project/pawbo.jpg",
+      "project_type": "跨國IOT",
+      "name": "Pawbo寵物智能家族"
+    },
+    {
+      "real_url": "http://hy.syntigris.com.cn/",
+      "image": "img/vock_project/syntigris.jpg",
+      "project_type": "ERP",
+      "name": "Syntigris ERP系統"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/company/Metropia.png",
+      "name": "Metropia",
+      "job": "目前任職為後端負責主管"
+    },
+    {
+      "img": "img/company/pawbo.jpg",
+      "name": "Pawbo",
+      "job": "Acer的寵物IOT部門，曾任軟體開發PM"
+    },
+    {
+      "img": "img/company/shuttle.png",
+      "name": "Shttle",
+      "job": "浩鑫股份有限公司，曾任軟體開發副課長"
+    },
+    {
+      "img": "img/company/tix.png",
+      "name": "tixCraft",
+      "job": "拓元股份有限公司，曾任專案開發RD"
+    }
+  ],
+  "Contact": {
+    "skype": "mathtku",
+    "phone": "(+886)933-039-095",
+    "email": "comic_star@msn.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
