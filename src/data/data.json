@@ -147,9 +147,14 @@
   ],
   "Team": [
     {
+      "img": "img/company/compal.png",
+      "name": "Compal",
+      "job": "仁寶集團，任職時為設計經理"
+    },
+    {
       "img": "img/company/Metropia.png",
       "name": "Metropia",
-      "job": "目前任職為後端負責主管"
+      "job": "美商美創，曾任後端負責主管"
     },
     {
       "img": "img/company/pawbo.jpg",
